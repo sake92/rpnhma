@@ -1,5 +1,7 @@
 # rpnhma
 
+#oben-zorz #gondribudajte
+
 ![](logo.jpg)
 
 Plugin za sve bisere koji prate https://www.instagram.com/rpnhma/
